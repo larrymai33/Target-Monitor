@@ -1,0 +1,565 @@
+{
+    "data": {
+        "product": {
+            "__typename": "Product",
+            "tcin": "89593918",
+            "category": {
+                "parent_category_id": "wo2mp",
+                "name": "Toaster Pastries",
+                "breadcrumbs": [
+                    {
+                        "canonical_url": "/",
+                        "category_id": "root",
+                        "name": "target"
+                    },
+                    {
+                        "canonical_url": "/c/grocery/-/N-5xt1a",
+                        "category_id": "5xt1a",
+                        "name": "Grocery"
+                    },
+                    {
+                        "canonical_url": "/c/breakfast-cereal-grocery/-/N-wo2mp",
+                        "category_id": "wo2mp",
+                        "name": "Breakfast & Cereal"
+                    },
+                    {
+                        "canonical_url": "/c/toaster-pastries-breakfast-cereal-grocery/-/N-5xt0i",
+                        "category_id": "5xt0i",
+                        "name": "Toaster Pastries"
+                    }
+                ]
+            },
+            "sales_classification_nodes": {
+                "node_ids": [
+                    "5xt0i",
+                    "8omml",
+                    "a3x8v",
+                    "muykc",
+                    "8uycj"
+                ]
+            },
+            "ratings_and_reviews": {
+                "has_verified": true,
+                "statistics": {
+                    "not_recommended_count": 59,
+                    "question_count": 0,
+                    "rating": {
+                        "average": 4.25,
+                        "count": 489,
+                        "distribution": {
+                            "rating1": 68,
+                            "rating2": 7,
+                            "rating3": 9,
+                            "rating4": 59,
+                            "rating5": 346
+                        },
+                        "secondary_averages": [
+                            {
+                                "id": "quality",
+                                "label": "quality",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 3.56
+                            },
+                            {
+                                "id": "taste",
+                                "label": "taste",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 3.4
+                            },
+                            {
+                                "id": "value",
+                                "label": "value",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 2.99
+                            }
+                        ]
+                    },
+                    "recommended_count": 90,
+                    "recommended_percentage": 60,
+                    "review_count": 410
+                },
+                "most_recent": [
+                    {
+                        "id": "0c333e7c-d3a7-47ff-b4d3-d7cb9df61440",
+                        "text": "If you bite into one of these thinking you just bought a Pop Tart that is a little healthier, you're going to have a bad time. Strawberry Flings taste like a 5th grade boy smashed Ritz crackers over a Fruit Rollup and packaged it for resale. If you close your eyes while chewing, you can actually taste the playground equipment from his unwashed hands. Mercifully, Flings are packaged just one to a foil pack, instead of the two that you would expect with a Pop Tart. This saves you money on flossers you'll need to pick bitter fruit snack gunk out of your teeth. I think landing on an accurate description of the taste of Flings is best done by calling them \"Dollar Store Fig Newtons.\" Nobody's enjoying this in their mouth.",
+                        "author": {
+                            "nickname": "Need a rinse",
+                            "external_id": "1186019414"
+                        },
+                        "title": "Invented by 9 year old boys?",
+                        "rating": {
+                            "value": 2.0,
+                            "submitted_at": "2025-03-30T21:34:31.029Z"
+                        }
+                    },
+                    {
+                        "id": "90711e0d-a99a-49fd-bba8-17a5678acb63",
+                        "text": "I cannot believe the high rating these have. The false advertising of the photo on the box vs the actual product should be a crime. They\u2019re mushy and have a weird taste, like sour maybe. Idk. And there is no frosting to speak of. Also the price??? No.",
+                        "author": {
+                            "nickname": "evdj",
+                            "external_id": "7993150975"
+                        },
+                        "title": "Hard pass",
+                        "rating": {
+                            "value": 1.0,
+                            "submitted_at": "2025-03-29T23:25:56.169Z"
+                        }
+                    },
+                    {
+                        "id": "80f5308b-9df4-47fd-93c0-d239a0b080b3",
+                        "text": "Not good flavor at all. Prefer Legendary Food over this one any day... Why the reviews so high on this? This product is gross in comparison.",
+                        "author": {
+                            "nickname": "KpopN",
+                            "external_id": "7998985133"
+                        },
+                        "title": "Do not like at all.",
+                        "rating": {
+                            "value": 1.0,
+                            "submitted_at": "2025-03-28T22:24:20.312Z"
+                        }
+                    },
+                    {
+                        "id": "854da355-1f07-42f0-a280-f8a1c109b985",
+                        "text": "I love the texture of these. So much so, that after finishing the first one I wanted to open another to eat. Not flat and crisp like a poptart, much cakier. But the flavor leaves something to be desired. A bit too chemically and artificial so I can only stomach one at a time. I'll definitely finish my box, but I'm not sure I'll buy them again. A bit too pricey for something I only half like the flavor of (though I'll be so sad to never eat this texture again, I really don't even know what to compare it to)",
+                        "author": {
+                            "nickname": "Hannah",
+                            "external_id": "10010588174"
+                        },
+                        "title": "Texture is 11/10, flavor is 5/10",
+                        "rating": {
+                            "value": 4.0,
+                            "submitted_at": "2025-03-25T15:39:46.901Z"
+                        }
+                    },
+                    {
+                        "id": "1e3d002a-50c7-4006-af31-6add82ab3399",
+                        "text": "Disgusting. I can\u2019t believe I wasted money on this (definitely not cheap!!). The texture is weird, the filling tastes like pasty figs rather than strawberries, and it leaves a horrible bitter aftertaste. I\u2019ve been gluten free for over a decade and have had a ton of products and this is just awful.",
+                        "author": {
+                            "nickname": "Not exactly as pictured",
+                            "external_id": "20036657704"
+                        },
+                        "title": "Gross - don't waste your money",
+                        "rating": {
+                            "value": 1.0,
+                            "submitted_at": "2025-03-25T02:30:46.044Z"
+                        }
+                    },
+                    {
+                        "id": "13fa84c7-f293-4097-929e-fa8d35ebb694",
+                        "text": "I really like these, they are compact and quick, you can eat them hot or cold, both ways it tastes nice.",
+                        "author": {
+                            "nickname": "Flings",
+                            "external_id": "10089695689"
+                        },
+                        "title": "Delicious",
+                        "rating": {
+                            "value": 5.0,
+                            "submitted_at": "2025-03-22T02:18:32.806Z"
+                        }
+                    },
+                    {
+                        "id": "a2981b3e-9393-427e-889f-180acb499402",
+                        "text": "these are pretty good for 'fake' toaster pastries. they're kind of small and overpriced - but you aren't buying these for the taste, you're buying them to enjoy something that you can't enjoy anymore because it is full of sugar. anyway, buy these. DO NOT buy these for your kids. these are for adults. kids will cry and throw them in the trash lol",
+                        "author": {
+                            "nickname": "postom",
+                            "external_id": "1162583783"
+                        },
+                        "title": "don't taste like garbage - great for diabetics!",
+                        "rating": {
+                            "value": 5.0,
+                            "submitted_at": "2025-03-19T18:49:03.365Z"
+                        }
+                    },
+                    {
+                        "id": "b8b1adc6-b66f-4bd0-a4eb-e12e9244542b",
+                        "text": "I have Celiac disease and I'm a type 1 diabetic. In other words, I've eaten a wide variety of natural, unnatural, keto, grain-free, high fiber, and low carb diet foods for many years. I'd never heard or read much good about these, but recently saw them in my recommendations and was surprised to see they now have a high 4+ rating, with some reviewers mentioning that the recipe was changed and greatly improved within the last year or two. I was growing a little tired of the mild aftertaste that the otherwise decent Legendary toaster pastries have, so I decided to finally give Flings a chance and bought the strawberry. I am the type of person that hates wasting money/food but this box is already in the trash. It's disappointing, but I have no desire to give these to someone else. They look nothing like what's on the box, taste like strong chemicals and a rancid Fig Newton, and have the texture of melting rubber. I'm shocked that these made it on store shelves, let alone have been around for years with growing praise. The product expiration is well before its \"Best By\" date, and the box does have the hype printing of \"New & Improved\" at the top. If this is improved, I'm glad I never tried the first released recipe. Looks like I'm taking a little break from toaster pastries, then returning to Legendary. Try them and decide for yourself if you must, but I'd personally trust the one-star reviews on this one.",
+                        "author": {
+                            "nickname": "NapoleonWilson13",
+                            "external_id": "7808200843"
+                        },
+                        "title": "Nope",
+                        "rating": {
+                            "value": 1.0,
+                            "submitted_at": "2025-03-18T13:50:04.866Z"
+                        }
+                    }
+                ],
+                "photos": [
+                    "https://target.scene7.com/is/image/Target/GUEST_379b3a8f-4499-4d6c-b44e-2cf4db524e96",
+                    "https://target.scene7.com/is/image/Target/GUEST_e31303c1-7de7-408c-9de6-aa4f61b0fe79",
+                    "https://target.scene7.com/is/image/Target/GUEST_4f4c20e3-c13c-4353-9ec5-983ce3f6a463",
+                    "https://target.scene7.com/is/image/Target/GUEST_c7c4e762-545b-4be7-ad78-cea3dd7c071b",
+                    "https://target.scene7.com/is/image/Target/GUEST_4b823e05-cab8-4805-b360-959caf03eff7",
+                    "https://target.scene7.com/is/image/Target/GUEST_78b7b1e5-0b6a-4d8f-a538-7f97fa07a372",
+                    "https://target.scene7.com/is/image/Target/GUEST_bdeb6879-5b03-404f-a5ab-0f06858a3f78",
+                    "https://target.scene7.com/is/image/Target/GUEST_3dbdb7ae-d666-430f-a464-b6931e4a6a1d",
+                    "https://target.scene7.com/is/image/Target/GUEST_3df96d57-dd79-4258-91ab-439374741733",
+                    "https://target.scene7.com/is/image/Target/GUEST_92304c86-1f51-4c33-8087-6dd17b8dd5bb",
+                    "https://target.scene7.com/is/image/Target/GUEST_db36a264-984b-4b6c-a7ab-8f212aadf249",
+                    "https://target.scene7.com/is/image/Target/GUEST_0ab6209b-f3d0-4b53-9bc3-d5e6951ca8a0"
+                ]
+            },
+            "experiments_viewed": {
+                "xv": [
+                    {
+                        "xt": "9068f49b-2bb0-4e77-a577-d8457b985c36"
+                    }
+                ]
+            },
+            "financing_options": {
+                "channel": "DIGITAL",
+                "providers": [
+                    {
+                        "finance_minimum_loan_amount": 30.0,
+                        "finance_provider": "PayPal",
+                        "financing_terms_url": "https://www.paypal.com/credit-presentment/lander/modal?client_id=AZ_XI7q1Eg3_B6ho8bkB1B06juS0UYjNs0hXDrDbxu4GzhtTUOj0xhb8VB0KigC5pV0Qljr95-Kp8JKE&amount=0&currency=USD&buyer_country=US&offer=PAY_LATER_SHORT_TERM&integrationType=API",
+                        "financing_cell_header": "Pay in 4",
+                        "financing_cell_body": "Pay in 4 interest-free payments on purchases of $30-$1,500",
+                        "is_finance_eligible": true,
+                        "is_finance_message_eligible": true
+                    }
+                ]
+            },
+            "free_shipping": {
+                "enabled": false
+            },
+            "item": {
+                "product_classification": {
+                    "item_type": {
+                        "name": "Toaster Pastries",
+                        "type": "437745"
+                    },
+                    "product_type": 109420,
+                    "product_type_name": "GROCERY",
+                    "purchase_behavior": "Frequency"
+                },
+                "compliance": {
+                    "is_carbon_neutral": false,
+                    "is_proposition_65": false
+                },
+                "disclaimer": {
+                    "description": "Content on this site is for reference purposes only.  Target does not represent or warrant that the nutrition, ingredient, allergen and other product information on our Web or Mobile sites are accurate or complete, since this information comes from the product manufacturers.  On occasion, manufacturers may improve or change their product formulas and update their labels.  We recommend that you do not rely solely on the information presented on our Web or Mobile sites and that you review the product's label or contact the manufacturer directly if you have specific product concerns or questions.  If you have specific healthcare concerns or questions about the products displayed, please contact your licensed healthcare professional for advice or answers.  Any additional pictures are suggested servings only.",
+                    "type": "Grocery Disclaimer"
+                },
+                "enrichment": {
+                    "buy_url": "https://www.target.com/p/flings-strawberry-high-protein-keto-toaster-pastries-8-3oz-4ct/-/A-89593918",
+                    "image_info": {
+                        "base_url": "//target.scene7.com/is/image/Target/",
+                        "primary_image": {
+                            "image_name": "GUEST_f165ee46-b3a5-4db3-8a92-b095b0c72043",
+                            "url": "https://target.scene7.com/is/image/Target/GUEST_f165ee46-b3a5-4db3-8a92-b095b0c72043"
+                        },
+                        "content_labels": [
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_f12a97db-9b52-49b6-a7a0-c40d71b7d1f0"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_f5564094-873f-4bc4-80a2-9815462f6d7c"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_d58c6651-08e6-4af6-98fc-6c1e83529951"
+                            }
+                        ],
+                        "alternate_images": [
+                            {
+                                "url": "https://target.scene7.com/is/image/Target/GUEST_d58c6651-08e6-4af6-98fc-6c1e83529951",
+                                "image_name": "GUEST_d58c6651-08e6-4af6-98fc-6c1e83529951"
+                            },
+                            {
+                                "url": "https://target.scene7.com/is/image/Target/GUEST_f5564094-873f-4bc4-80a2-9815462f6d7c",
+                                "image_name": "GUEST_f5564094-873f-4bc4-80a2-9815462f6d7c"
+                            }
+                        ],
+                        "swatch_image": {}
+                    },
+                    "nutrition_facts": {
+                        "ingredients": "Protein Blend (Milk Protein Concentrate, Whey Protein Concentrate, Almond Flour, Chickpea Flour), Tapioca Fiber, Allulose, Glycerin, Organic Coconut Oil, Honey, Water, Tapioca Starch, Modified Tapioca Starch, Strawberry Puree, Organic Cane Sugar, Sea Salt, Natural Flavor, Sunflower Lecithin, Gum Arabic, Baking Soda, Fruit and Vegetable Juice for Color, Pectin, Citric Acid, Malic Acid, Stevia Extract, Calcium Citrate, Vitamin E. ",
+                        "nutrition_label_type_code": "LEGACY_FORMAT",
+                        "value_prepared_list": [
+                            {
+                                "nutrients": [
+                                    {
+                                        "name": "Calories",
+                                        "quantity": 170.0,
+                                        "unit_of_measurement": "Cal"
+                                    },
+                                    {
+                                        "name": "Total Fat",
+                                        "percentage": 8.0,
+                                        "quantity": 6.0,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Saturated Fat",
+                                        "percentage": 18.0,
+                                        "quantity": 3.5,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Trans Fat",
+                                        "quantity": 0.0,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Cholesterol",
+                                        "percentage": 5.0,
+                                        "quantity": 15.0,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Sodium",
+                                        "percentage": 10.0,
+                                        "quantity": 230.0,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Total Carbohydrate",
+                                        "percentage": 11.0,
+                                        "quantity": 30.0,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Dietary Fiber",
+                                        "percentage": 36.0,
+                                        "quantity": 10.0,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Sugars",
+                                        "quantity": 4.0,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Added Sugars",
+                                        "percentage": 8.0,
+                                        "quantity": 4.0,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Protein",
+                                        "percentage": 20.0,
+                                        "quantity": 10.0,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Vitamin D",
+                                        "percentage": 0.0,
+                                        "quantity": 0.2,
+                                        "unit_of_measurement": "mcg"
+                                    },
+                                    {
+                                        "name": "Calcium",
+                                        "percentage": 15.0,
+                                        "quantity": 180.0,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Iron",
+                                        "percentage": 2.0,
+                                        "quantity": 0.4,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "percentage": 2.0,
+                                        "quantity": 100.0,
+                                        "unit_of_measurement": "mg"
+                                    }
+                                ],
+                                "serving_size": "56",
+                                "serving_size_unit_of_measurement": "g",
+                                "servings_per_container": "4"
+                            }
+                        ],
+                        "warning": "FLING RESPONSIBLY, Caution: Due to possible risk of fire, never leave your toaster or microwave unattended. Do not overheat-frosting and filling can become extremely hot and could result in a burnt tongue. Not great., Contains Milk, Almonds."
+                    },
+                    "images": {
+                        "base_url": "//target.scene7.com/is/image/Target/",
+                        "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_f165ee46-b3a5-4db3-8a92-b095b0c72043",
+                        "primary_image": "GUEST_f165ee46-b3a5-4db3-8a92-b095b0c72043",
+                        "alternate_images": [
+                            "GUEST_d58c6651-08e6-4af6-98fc-6c1e83529951",
+                            "GUEST_f5564094-873f-4bc4-80a2-9815462f6d7c"
+                        ],
+                        "alternate_image_urls": [
+                            "https://target.scene7.com/is/image/Target/GUEST_d58c6651-08e6-4af6-98fc-6c1e83529951",
+                            "https://target.scene7.com/is/image/Target/GUEST_f5564094-873f-4bc4-80a2-9815462f6d7c"
+                        ],
+                        "content_labels": [
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_f12a97db-9b52-49b6-a7a0-c40d71b7d1f0"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_f5564094-873f-4bc4-80a2-9815462f6d7c"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_d58c6651-08e6-4af6-98fc-6c1e83529951"
+                            }
+                        ]
+                    },
+                    "videos": [
+                        {
+                            "video_captions": [
+                                {
+                                    "caption_url": "https://target.scene7.com/is/content/Target/GUEST_ccd42074-8a10-4f1c-baba-b0f1aede3953",
+                                    "language": "EN"
+                                }
+                            ],
+                            "video_files": [
+                                {
+                                    "mime_type": "video/mp4",
+                                    "video_height_pixels": "720",
+                                    "video_url": "https://target.scene7.com/is/content/Target/GUEST_bbe97bfd-13e7-4147-a918-8288e8cebe21_Flash9_Autox720p_2600k"
+                                }
+                            ],
+                            "video_length_seconds": "45",
+                            "video_poster_image": "https://target.scene7.com/is/image/Target/GUEST_bbe97bfd-13e7-4147-a918-8288e8cebe21",
+                            "video_title": "Flings Video 89593918 89593919"
+                        },
+                        {
+                            "video_captions": [
+                                {
+                                    "caption_url": "https://target.scene7.com/is/content/Target/GUEST_db62c6e2-41e1-44b0-98ea-8a4a5bd78935",
+                                    "language": "EN"
+                                }
+                            ],
+                            "video_files": [
+                                {
+                                    "mime_type": "video/mp4",
+                                    "video_height_pixels": "720",
+                                    "video_url": "https://target.scene7.com/is/content/Target/GUEST_3bddef63-fcb7-47d0-a5f3-f690c20d9f92_Flash9_Autox720p_2600k"
+                                }
+                            ],
+                            "video_length_seconds": "45",
+                            "video_poster_image": "https://target.scene7.com/is/image/Target/GUEST_3bddef63-fcb7-47d0-a5f3-f690c20d9f92",
+                            "video_title": "New Flings Video"
+                        }
+                    ],
+                    "return_policies": [
+                        {
+                            "user_type": "best_guest",
+                            "day_count": 120
+                        },
+                        {
+                            "user_type": "regular_guest",
+                            "day_count": 90
+                        }
+                    ]
+                },
+                "environmental_segmentation": {
+                    "is_hazardous_material": false
+                },
+                "formatted_return_method": "This item can be returned to any Target store or Target.com.",
+                "fulfillment": {
+                    "is_gift_wrap_eligible": true,
+                    "purchase_limit": 10
+                },
+                "package_dimensions": {
+                    "depth": 2.7,
+                    "dimension_unit_of_measure": "INCH",
+                    "weight": 0.5512,
+                    "weight_unit_of_measure": "POUND",
+                    "height": 5.31,
+                    "width": 3.7
+                },
+                "product_description": {
+                    "bullet_descriptions": [
+                        "<B>Contains:</B> Almonds, Eggs, Milk",
+                        "<B>Filling:</B> Strawberry",
+                        "<B>State of Readiness:</B> Ready to Eat",
+                        "<B>Package Quantity:</B> 1",
+                        "<B>Bakery topping:</B> Sprinkles, Icing",
+                        "<B>Net weight:</B> 8.3 Ounces"
+                    ],
+                    "downstream_description": "Prepare for a burst of summer in every bite with our Summer Strawberry toaster pastries. Packed with 10g of protein, 5g of net carbs, 1g of sugar, and only 140 calories, it is the ultimate treat ready to keep you fueled up throughout your day. Toast it to golden perfection, throw it in the freezer for a chilled bite, or eat one right out of the wrapper. Crafted with care and nutrition in mind, our toaster pastries will keep you satisfied with pure wholesome goodness. <br /><br />\u2026did we forget to mention they are also gluten free and keto friendly? <br /><br />",
+                    "soft_bullets": {
+                        "bullets": [
+                            "Thoughtfully crafted with both taste and nutrition in mind",
+                            "Quick & versatile: toast, chill, or enjoy straight from the wrapper",
+                            "Packed with 10g protein for sustained energy throughout the day",
+                            "14g of Fiber",
+                            "1g of Sugar",
+                            "Gluten free and Keto Friendly",
+                            "Experience the delightful burst of sun-kissed strawberries with every bite"
+                        ],
+                        "title": "highlights"
+                    },
+                    "title": "Flings Strawberry High Protein Keto Toaster Pastries - 8.3oz / 4ct",
+                    "soft_bullet_description": "&bull;Thoughtfully crafted with both taste and nutrition in mind<br>&bull;Quick & versatile: toast, chill, or enjoy straight from the wrapper<br>&bull;Packed with 10g protein for sustained energy throughout the day<br>&bull;14g of Fiber<br>&bull;1g of Sugar<br>&bull;Gluten free and Keto Friendly<br>&bull;Experience the delightful burst of sun-kissed strawberries with every bite"
+                },
+                "relationship_type_code": "SA",
+                "return_policies_guest_message": "This item must be returned within 90 days of the date it was purchased in store, shipped, delivered by a Shipt shopper, or made ready for pickup. If purchased online with SNAP EBT, this item must be returned within 90 days of the date it was shipped, delivered by a Shipt shopper, or made ready for pickup. This 90-day return window is required by SNAP.",
+                "wellness_merchandise_attributes": [
+                    {
+                        "badge_url": "https://target.scene7.com/is/image/Target/wellness_25c25b609d1c43b7",
+                        "parent_id": "304049",
+                        "value_id": "825392",
+                        "value_name": "Gluten Free",
+                        "wellness_description": "A product that has an unqualified independent third-party certification, or carries an on-pack statement relating to the finished product being gluten-free."
+                    }
+                ],
+                "cart_add_on_threshold": 35.0,
+                "dpci": "231-14-0771",
+                "eligibility_rules": {
+                    "add_on": {
+                        "is_active": true
+                    },
+                    "hold": {
+                        "is_active": true
+                    },
+                    "scheduled_delivery": {
+                        "is_active": true
+                    },
+                    "ship_to_guest": {
+                        "is_active": true
+                    }
+                },
+                "handling": {
+                    "import_designation_description": "Imported"
+                },
+                "merchandise_classification": {
+                    "class_id": 14,
+                    "department_id": 231,
+                    "department_name": "BREAKFAST/WARM BEVERAGES"
+                },
+                "primary_barcode": "628942158995",
+                "primary_brand": {
+                    "canonical_url": "/b/flings/-/N-q643lepkfvh",
+                    "linking_id": "q643lepkfvh",
+                    "name": "Flings"
+                },
+                "return_method": "Mail in or Store"
+            },
+            "price": {
+                "current_retail": 9.79,
+                "display_was_now": false,
+                "formatted_current_price": "$9.79",
+                "formatted_current_price_type": "reg",
+                "formatted_unit_price": "$1.18",
+                "formatted_unit_price_suffix": "/ounce",
+                "reg_retail": 9.79,
+                "location_id": 1407,
+                "external_system_id": "89593918-1407-9.79-2025021922"
+            },
+            "predictive_search": {
+                "search_term": "flings"
+            }
+        }
+    },
+    "extensions": {
+        "experiments_viewed": [
+            {
+                "service": "redsky",
+                "tcin": "89593918",
+                "xv": [
+                    {
+                        "xt": "9068f49b-2bb0-4e77-a577-d8457b985c36"
+                    }
+                ]
+            }
+        ]
+    }
+}

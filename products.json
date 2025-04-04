@@ -1,0 +1,35 @@
+[
+    {
+        "url": "https://www.target.com/p/tempo/-/A-88897904",
+        "name": "151 bb",
+        "last_checked": "2025-04-04 16:29:31",
+        "in_stock": false
+    },
+    {
+        "url": "https://www.target.com/p/himalayan-salted-dark-chocolate-almonds-13oz-good-38-gather-8482/-/A-78099811#lnk=sametab",
+        "name": "test prod",
+        "last_checked": "2025-04-04 16:29:34",
+        "in_stock": true
+    },
+    {
+        "url": "https://www.target.com/p/-/A-93803439?clkid=4b9c28a4N0abc11f09d87dfd5a57a05e9&cpng=&lnm=81938&afid=Mavely&ref=tgt_adv_xasd0002",
+        "name": "jt etb",
+        "tcin": "93803439",
+        "last_checked": "2025-04-04 16:29:36",
+        "in_stock": false
+    },
+    {
+        "url": "https://www.target.com/p/32-arbon-coffee-table-threshold-designed-with-studio-mcgee/-/A-89238563?preselect=83208412#lnk=sametab",
+        "name": "test product 2",
+        "tcin": "89238563",
+        "last_checked": "2025-04-04 16:29:38",
+        "in_stock": false
+    },
+    {
+        "url": "https://www.target.com/p/flings-strawberry-high-protein-keto-toaster-pastries-8-3oz-4ct/-/A-89593918#lnk=sametab",
+        "name": "test product 3",
+        "tcin": "89593918",
+        "last_checked": "2025-04-04 16:29:40",
+        "in_stock": true
+    }
+]
